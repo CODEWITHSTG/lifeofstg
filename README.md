@@ -1,9 +1,12 @@
-- 👋 Hi, I’m Opeyemi Emmanuel also known as STG, my username (@CODEWITHSTG)
+- 👋 Hi, I’m Opeyemi Emmanuel also known as STG,I'm a web developer from Lagos State, Nigeria.
 - 👀 I’m interested in anything web development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on Some languages, JavaScript, python, Java etc.
-- 📫 How to reach me on Instagram as @thats_stg, on WhatsApp (09029959860), tiktok as @thats_stg
-- 😄 Pronouns: HIM
+- 🌱 I’m currently learning JavaScript
+- Catch me up on Whatsapp: +234 9029959860.
+- 📫 How to reach me on Instagram:https://www.instagram.com/thats_stg?igsh=bGl3bmJxdGU2bGU4
+
+Tiktok:https://www.tiktok.com/@thats_stg?_t=8nBfs1liYw1&_r=1
+
+- 
 - ⚡ Fun fact: I love to code and at the same time listening to music
 
 <!---
