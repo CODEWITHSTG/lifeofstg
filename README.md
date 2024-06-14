@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Opeyemi Emmanuel also known as STG, my username (@lifeofstg)
+- 👋 Hi, I’m Opeyemi Emmanuel also known as STG, my username (@CODEWITHSTG)
 - 👀 I’m interested in anything web development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on Some languages, JavaScript, python, Java etc.
